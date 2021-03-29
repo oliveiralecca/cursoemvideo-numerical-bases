@@ -1,2 +1,2 @@
-# cursoemvideo-bases-numericas
- Arquivos de imagem das aulas
+# cursoemvideo-numerical-bases
+Classes image files.
